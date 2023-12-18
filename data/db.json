@@ -1,0 +1,31 @@
+{
+  "blogs": [
+    {
+      "title": "Blue Screen Error",
+      "body": "hmm စက်မှာ ram မကောင်းသောကြောင့် စစ်ဆေးပေးထားပါသည်",
+      "author": "Phyo Htet Ko",
+      "id": 3
+    },
+    {
+      "title": "UPS ERROR",
+      "body": "Ma Shwe Yi Oo စက် ups အသစ်လဲပေးထားပါသည်",
+      "author": "Aung Myo Oo",
+      "dateString": "Sat Dec 16 2023",
+      "id": 4
+    },
+    {
+      "title": "Camera Error",
+      "body": "HM & M camera 2 လုံး အသစ်တပ်ဆင်ပေးခဲ့ပါသည်",
+      "author": "Kaung Myat Tun",
+      "dateString": "Sat Dec 16 2023",
+      "id": 5
+    },
+    {
+      "title": "PC Service ",
+      "body": "KO kaung Myat Htun စက်အား battery လဲပေးထားပါသည်",
+      "author": "Aung Si Thu",
+      "dateString": "Mon Dec 18 2023",
+      "id": 6
+    }
+  ]
+}
